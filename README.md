@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - blog_preview_card
 
-![Design preview for the QR code component coding challenge](./preview.png)
+![Design preview for the blog preview card coding challenge](./design/desktop-design.jpg)
 
 ## Table of contents
 
@@ -23,7 +23,7 @@ This report provides an overview of a simple web page created using HTML and CSS
 
 ### Screenshot
 
-![](/home/mariefk/Documents/blog_preview_card.github.io-main/blog_preview_card/design/desktop-design.jpg)
+![screenshot](design/desktop-design.jpg)
 
 
 
@@ -47,6 +47,6 @@ Throughout this project, I gained several key insights:
 
 ## Author
 
-- Website - [Mariekaff](https://github.com/Mariekaf/QR_code_simple_template.git)
+- Website - [Mariekaff](https://github.com/Mariekaf/blog_preview_card.git)
 - Frontend Mentor - [mariefk](https://www.frontendmentor.io/profile/Mariekaf)
 
